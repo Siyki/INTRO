@@ -33,4 +33,28 @@ with col2:
 
   if modo== "jesus":
     st.write("yo no le creo lo de rehabilitado")
+
+#Botoncito
+
+
+st.subheader("Uso de Botones")
+if st. button ("Presiona aqui"):
+  st.write("que juicioso")
+else:
+  st.write("porfavor :(")
+
+st.subheader("selectbox")
+in_mod=st.selectbox(
+  "Helado fav",
+  ("Chocolate","Vainilla","Fresa"),
+)
+
+if in_mod== "Chocolate":
+  set_mod= "Muy dulce"
+elif in_mod == "Vainilla":
+  set_mod= "Muy básico"
+elif in_mod == "Fresa":
+  set_mod= "Gei"
+st.write("Eres",set_mod)
+  
               
