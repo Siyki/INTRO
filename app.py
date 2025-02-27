@@ -1,4 +1,4 @@
 import streamlit as st
 
 
-st.tittle("mi primera chamba")
+st.title("mi primera chamba")
