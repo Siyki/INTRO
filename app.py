@@ -22,7 +22,7 @@ with col1:
   if resp:
     st.write("Obvio")
 
-with col2
+with col2:
   st.subheader("Segunda columna")
   modo= st.radio ("Razones por las que odiar la carrera",("nochamba", "quesehaceahi", "jesus"))
 if modo== "nochamba":
