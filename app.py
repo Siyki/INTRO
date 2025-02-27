@@ -25,12 +25,12 @@ with col1:
 with col2:
   st.subheader("Segunda columna")
   modo= st.radio ("Razones por las que odiar la carrera",("nochamba", "quesehaceahi", "jesus"))
-if modo== "nochamba":
-  st.write("total, hay que salir de este hueco")
+  if modo== "nochamba":
+    st.write("total, hay que salir de este hueco")
 
-if modo== "quesehaceahi":
-  st.write("diseño grafico 2.0")
+  if modo== "quesehaceahi":
+    st.write("diseño grafico 2.0")
 
-if modo== "jesus":
-  st.write("yo no le creo lo de rehabilitado")
+  if modo== "jesus":
+    st.write("yo no le creo lo de rehabilitado")
               
