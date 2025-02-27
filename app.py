@@ -29,7 +29,7 @@ if modo== "nochamba":
   st.write("total, hay que salir de este hueco")
 
 if modo== "quesehaceahi":
-  st.write("diseño grafico 2.0)
+  st.write("diseño grafico 2.0")
 
 if modo== "jesus":
   st.write("yo no le creo lo de rehabilitado")
