@@ -6,4 +6,4 @@ st.header("la proxima semana no se como hice esto")
 st.write("soy diseñadora, no programadora, no sé que pretenden")
 st.image=Image.open('actually.jpg')
 
-st.image(image, caption= 'Interfaces')
+st.image(image,caption= 'Interfaces')
