@@ -54,7 +54,7 @@ if in_mod== "Chocolate":
 elif in_mod == "Vainilla":
   set_mod= "Muy básico"
 elif in_mod == "Fresa":
-  set_mod= "Gei"
+  set_mod= "e girl"
 st.write("Eres",set_mod)
   
               
