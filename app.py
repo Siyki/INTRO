@@ -4,7 +4,7 @@ from PIL import Image
 st.title("Mi primera chamba")
 st.header("la proxima semana no se como hice esto")
 st.write("soy diseñadora, no programadora, no sé que pretenden")
-fotito=Image.open('actually.jpg')
+fotito=image.open('actually.jpg')
 st.image(fotito, caption= 'Sisoy')
 
 
